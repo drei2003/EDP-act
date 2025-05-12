@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\manuel andrei lleva\\source\\repos\\taskmanagementsystem\\taskmanagementsystem\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\taskmanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\manuel andrei lleva\\source\\repos\\taskmanagementsystem\\taskmanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\manuel andrei lleva\\source\\repos\\taskmanagementsystem\\taskmanagementsystem\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\manuel andrei lleva\\source\\repos\\taskmanagementsystem\\taskmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\taskmanagementsystem\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\taskmanagementsystem\\dashboardmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\dashboardmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\manuel andrei lleva\\source\\repos\\taskmanagementsystem\\taskmanagementsystem\\dashboardmainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\dashboardmainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\manuel andrei lleva\\source\\repos\\taskmanagementsystem\\taskmanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\manuel andrei lleva\\source\\repos\\taskmanagementsystem\\taskmanagementsystem\\signupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\signupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\taskmanagementsystem\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\taskmanagementsystem\\rolesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\rolesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\manuel andrei lleva\\source\\repos\\taskmanagementsystem\\taskmanagementsystem\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4044F5D-5E18-4D71-A04B-2F0AC4DB1BD2}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\App.config",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\App.config",
+              "ToolTip": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\App.config",
+              "RelativeToolTip": "TaskManagementSystem\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-11T16:07:30.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "TaskManagementSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:25:43.257Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\Program.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:07:43.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\LoginForm.Designer.cs",
+              "RelativeToolTip": "TaskManagementSystem\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAqwBgBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:45:52.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\LoginForm.cs",
+              "RelativeToolTip": "TaskManagementSystem\\LoginForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:48:49.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\DatabaseConnection.cs",
+              "RelativeToolTip": "TaskManagementSystem\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:57:31.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardMainForm.resx",
+              "DocumentMoniker": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\DashboardMainForm.resx",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\DashboardMainForm.resx",
+              "ToolTip": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\DashboardMainForm.resx",
+              "RelativeToolTip": "TaskManagementSystem\\DashboardMainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-11T17:09:04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\DepartmentsForm.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\DepartmentsForm.cs",
+              "ToolTip": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\DepartmentsForm.cs [Design]",
+              "RelativeToolTip": "TaskManagementSystem\\DepartmentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:09:08.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\DashboardMainForm.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\DashboardMainForm.cs",
+              "ToolTip": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\DashboardMainForm.cs [Design]",
+              "RelativeToolTip": "TaskManagementSystem\\DashboardMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:22:39.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignupForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\SignupForm.Designer.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\SignupForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\SignupForm.Designer.cs",
+              "RelativeToolTip": "TaskManagementSystem\\SignupForm.Designer.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAQwMMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:23:10.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAYVAAAAAAAAAAAwwBIVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-11T17:03:16.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignupForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\SignupForm.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\SignupForm.cs",
+              "ToolTip": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\SignupForm.cs [Design]",
+              "RelativeToolTip": "TaskManagementSystem\\SignupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:20:19.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RolesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\RolesForm.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\RolesForm.cs",
+              "ToolTip": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\RolesForm.cs [Design]",
+              "RelativeToolTip": "TaskManagementSystem\\RolesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:12:49.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignupForm.cs",
+              "DocumentMoniker": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\SignupForm.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\SignupForm.cs",
+              "ToolTip": "C:\\Users\\Manuel Andrei Lleva\\source\\repos\\TaskManagementSystem\\TaskManagementSystem\\SignupForm.cs",
+              "RelativeToolTip": "TaskManagementSystem\\SignupForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAASwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:40:13.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
